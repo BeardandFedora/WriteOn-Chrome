@@ -1,6 +1,6 @@
 {
-  "name": "Codio IDE",
-  "description": "A cloud-based development environment",
+  "name": "WriteOn",
+  "description": "A cloud-based writing environment",
   "version": "1.0",
   "manifest_version": 2,
   "app": {

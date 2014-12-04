@@ -1,4 +1,8 @@
-# Codio IDE
-A Chrome app for the Codio cloud-based development environment.
+# WriteOn Chrome App
+A Chrome app for the WriteOn cloud-based writing environment.
 
-[Get the app](https://chrome.google.com/webstore/detail/codio-ide/niopjjhhebbhdnbdnlmcgbfljbcllhda)
+More `#awesome` at [writeon.io](http://writeon.io)
+
+[Get the app](https://chrome.google.com/webstore/detail/writone/some-id-here-when-we-get-it-submitted) in the Chrome Store
+
+![WriteOn](logo.png) 
